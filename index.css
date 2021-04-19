@@ -12,28 +12,28 @@ color: white;
 }
 
 header{
-width: 80vw;
-height: 16vh;
-margin-top: 25px;
+width: 60%;
+height: 150px;
 box-shadow: 5px 5px 5px rgb(0,206,209);
 }
 
 #header-grid{
-margin-top: 15px;
+margin-top: 10px;
 display: flex;
 justify-content: space-evenly;
 }
 
 #search{
-margin-top: 10px;
+margin-top: 5px;
 }
 
 #random{
-margin-top: 10px;
+margin-top: 5px;
 }
 
 input {
 height: 25px;
+background-color: darkgrey;
 border-radius: 4px;
 }
 
