@@ -20,8 +20,7 @@ function criar(drink) {
     }
   });
   const listaFinal = [];
-  console.log(ingredients);
-  console.log(measures);
+
   for (let i = 0; i <= (ingredients.length - 1); i += 1) {
     if (measures[i] === undefined) {
       listaFinal.push(ingredients[i]);
